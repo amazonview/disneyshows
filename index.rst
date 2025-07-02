@@ -10,7 +10,7 @@ How to Create a Disney Plus Account?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_20.png
    :width: 350px
    :align: center
    :height: 100px
